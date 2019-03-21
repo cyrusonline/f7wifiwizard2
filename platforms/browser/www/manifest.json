@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "CordovaWifi2",
+  "short_name": "CordovaWifi2",
+  "version": "com.example.cordovawifi2",
+  "description": "Brand new cordova project!",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
